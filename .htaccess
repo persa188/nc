@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^swaggify\.me$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.swaggify\.me$
+RewriteRule ^/?$ "http\:\/\/server\.danielpersaud\.com\/" [R=301,L]
+
