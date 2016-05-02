@@ -1,0 +1,14 @@
+﻿<span id="a">console@precision-dev.com</span>:<span id="b">~</span><span id="c">$</span> cat contract.txt<br/><br/>
+
+Hi, below are the terms for the CSCC01 Agreement for our team:<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p><span id="b">Work Hours:</span></p><p> Regular "work hours" are from 12pm to 12am (Weekdays), during this time members will be expected to answer any messages directed towards themself or the group within 24 hours. </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+
+<p><span id="b">Communication:</span></p> All members are part of both a slack and skype group that will be used as the primary mode of communication between memebers. Members are expected to post updates on their progress (even if nothing was done) atleast once a day and are expected to respond to posts within a few hours during the "work hours" timeframe. 
+
+<p><span id="b">Meetings:</span></p><p>All members are required to attend a weekly meeting scheduled for Tuesday 2-4, if needed an additional timeslot of Friday 12-1 is reserved for emergency meetings. All important decisions, such as strategy and design, will be finalized in the Tuesday meeting - or at an earlier time based on workload / deadlines. Online Meetings (through skype or slack) will also be held as needed. All face to face meetings will be held in the designated shared workspace, IC406, unless another location has been agreed on beforehand.
+
+<p><span id="b">Accountability</span></p><p>Members are required to update the group on their progress on assigned tasks daily through designated methods of communication, this is regardless of wether the member is struggling, progressing smoothly, or has done nothing. If a member is struggling ALL members will try their best to assist that memeber until they are back on track, as we are a TEAM. In the event the problem is not solvable by the group an email will immediatley be sent to a course instructor / T.A. and a meeting may be booked (ASAP) if needed. In the event the team is behind schedule or work is not being done, the team will adjust the workload/pace in a meeting - if this fails an appointment with the course instructor / TA will be made to resolve issues as soon as possible.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+
+</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+<p>**END**</p>
+
+
